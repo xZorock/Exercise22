@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"it.develhope.exercise22","l":"Start"},{"p":"it.develhope.exercise22","l":"WordGames"}];updateSearchResults();
